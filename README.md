@@ -1,7 +1,11 @@
 ## Coursera HTML and CSS in depth
 This project builded to complete meta front-end course tutorial.
 
-## Grade Assessment
+## How to start the project?
+- npm install
+- npm run start
+
+## Grade assessment
 The graded assessment requires you to complete a calculator in React. You will be provided with code snippets, and your task is to use these, plus any of your code to complete the calculator that can perform the four basic mathematical operations: addition, subtraction, multiplication, and division.
 
 It will also have a single input button, which will accept user input (any number) and a total starting with a zero.

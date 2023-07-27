@@ -1,0 +1,48 @@
+body {
+  font-size: 16px;
+}
+
+input {
+  border: 1px solid grey;
+  padding: .5rem;
+  border-radius: .5rem;
+}
+
+.btn {
+  background: lightslategray;
+  border-radius: .5rem;
+  padding: .5rem 1rem;
+  border: 2px solid lightslategray;
+  cursor: pointer;
+}
+
+.btn-default {
+  background-color: lightslategray;
+}
+
+.btn-reset {
+  border-color: rosybrown;
+  background-color: rosybrown;
+}
+
+.btn:hover {
+  box-shadow: 0 0 2px 2px beige;
+}
+
+.btn:active {
+  background-color: beige;
+}
+
+.mb-2 {
+  margin-bottom: .5rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.gap-2 {
+  gap: .5rem;
+  row-gap: .5rem;
+  column-gap: .5rem;
+}
