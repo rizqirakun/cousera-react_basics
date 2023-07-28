@@ -1,4 +1,4 @@
-## Coursera HTML and CSS in depth
+## Coursera React Basics
 This project builded to complete meta front-end course tutorial.
 
 ## How to start the project?
